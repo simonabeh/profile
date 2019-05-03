@@ -79,6 +79,15 @@ a:hover {
   border-radius: 4px;
 }
 
+.avatar {
+  background: url(images/pic_exercise.jpg);
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+}
+
 @media (max-width: 540px) {
   .card {
     width: 300px;
@@ -97,12 +106,4 @@ a:hover {
   }
 }
 
-.avatar {
-  background: url(images/pic_exercise.jpg);
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  background-size: cover;
-  background-position: center;
-}
 
