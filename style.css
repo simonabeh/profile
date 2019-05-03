@@ -45,7 +45,7 @@ a:hover {
 }
 
 .card {
-  background: #e3e7f1;
+  color: #e3e7f1;
   padding: 30px;
   border-radius: 3px;
   box-shadow: 0 10px 30px rgba(0,0,0,.3);
